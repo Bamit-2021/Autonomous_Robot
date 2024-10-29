@@ -23,6 +23,7 @@ pandas
 pyplot
 
 3. Code Structure for the Simulation
+
 Here's a breakdown of the code into different parts for clarity:
 
 Step 1: Define the Warehouse and Robot Constraints
@@ -32,3 +33,5 @@ Step 2: Define the Robot Class and Movement Logic
 Step 3: Set Up the Simulation Environment
 
 Step 4: Execute the Simulation
+
+4. Run and Observe the Simulation
